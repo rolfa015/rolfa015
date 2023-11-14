@@ -1,3 +1,3 @@
-Thanks for visiting. Probably not too much of interest yet, but hopefully to come.
+# Hello World! :wave:
 
-:sunglasses:
+My name is Rolf Andersen and I'm a senior engineer based in Tromsoe, Norway.
